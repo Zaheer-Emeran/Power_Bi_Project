@@ -1,8 +1,9 @@
 # Power_Bi_Project
 ## Colour Schemes
-- Orange: #FAA116
-- Blue 1 (light): #1795FA
-- #0076D7
-- #0059B5
-- #003E94
-- #002675
+- Orange Light: #FA9601
+- Orange Medium: #CD7100
+- Orange Dark: #A14E00
+
+- Blue (Grad) Light: #003E94
+- Blue (Grad) Medium: #00337D
+- Blue (Grad) Dark: #001642
